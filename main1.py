@@ -17,7 +17,7 @@ while True:
         print(f"До вашої дати залишилось = {-result} дні ")
         break
     except ValueError:
-        print("Введіть правильно дату   ")    
+        print("Введіть правильно дату    ")    
 
 
 
