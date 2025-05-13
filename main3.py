@@ -6,10 +6,10 @@ def normalize_phone(phone_number):
     
     result="".join(normal_tel)
     if len(result)==12:
-        telef="+ " +result
+        telef="+" +result
         
     elif len(result)==10:
-        telef="+38 " +result
+        telef="+38" +result
    
 
 
